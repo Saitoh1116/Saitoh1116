@@ -59,11 +59,11 @@
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
 
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,php,python,C#,html,css,js,typescript,angular" />
+<img src="https://skillicons.dev/icons?i=java,php,python,c#,html,css,js,typescript,angular" />
 
 </td>
 </tr>
