@@ -64,10 +64,11 @@
 
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,php,python,c# />
+<img src="https://skillicons.dev/icons?i=java,php,python,csharp" />
 
 ### 📺 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+
 
 </td>
 </tr>
