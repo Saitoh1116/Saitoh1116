@@ -66,8 +66,8 @@
 ### 💻  **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=java,php,python,c# />
 
-###📺 **Frontend**
-<img src="https://skillcons.dev/icons?i=html,css,js,angular" />
+### 📺 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
 
 </td>
 </tr>
