@@ -29,6 +29,8 @@
 💼 **Focus:** Building beautiful web applications  
 ☕ **Powered by:** beer and curiosity  
 🎯 **Goal:** Creating amazing user experiences
+
+
 😁 **Quote**  
 Don't be clever. Don't try to write complicated code on purpose to show how smart you are.  
 Write simple, clear, reusable code.  
