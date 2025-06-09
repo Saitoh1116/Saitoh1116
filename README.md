@@ -74,7 +74,7 @@ Think Simplicity, Clarity, Generality.
 
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,php,python,csharp,laravel,dotnet&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,php,python,c#,springboot,laravel,dotnet&theme=light" />
 
 
 
