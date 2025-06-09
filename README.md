@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Java" />
+<img src="https://skillicons.dev/icons?i=Java" width="100" height="100" alt="Java" />
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
@@ -29,7 +29,7 @@
 💼 **Focus:** Building beautiful web applications  
 ☕ **Powered by:** beer and curiosity  
 🎯 **Goal:** Creating amazing user experiences
-😁 **quote** Don't be clever. Don't try to write complicated code on purpose to show how smnart you are. Write simple, clear. rusable code. Think Simplicaity, Clarity, Generarlity. -By Brian Kernighan
+😁 **Quote** Don't be clever. Don't try to write complicated code on purpose to show how smnart you are. Write simple, clear. rusable code. Think Simplicaity, Clarity, Generarlity. -By Brian Kernighan
 
 </td>
 </tr>
@@ -64,7 +64,10 @@
 
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,php,python,c#,html,css,js,typescript,angular" />
+<img src="https://skillicons.dev/icons?i=java,php,python,c# />
+
+###📺 **Frontend**
+<img src="https://skillcons.dev/icons?i=html,css,js,angular" />
 
 </td>
 </tr>
