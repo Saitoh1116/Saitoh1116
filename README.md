@@ -56,6 +56,9 @@
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=cursor,vscode,git,github,postman" />
 
+### 📺 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -65,9 +68,6 @@
 
 ### 💻  **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=java,php,python,csharp" />
-
-### 📺 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
 
 
 </td>
