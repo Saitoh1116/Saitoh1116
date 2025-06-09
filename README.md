@@ -17,18 +17,19 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Java" />
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### 👋 **Hi, I'm MokichiSaitoh!**
+🚀 **Java Developer** passionate about mobile development  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+💼 **Focus:** Building beautiful web applications  
+☕ **Powered by:** beer and curiosity  
+🎯 **Goal:** Creating amazing user experiences
+😁 **quote** Don't be clever. Don't try to write complicated code on purpose to show how smnart you are. Write simple, clear. rusable code. Think Simplicaity, Clarity, Generarlity. -By Brian Kernighan
 
 </td>
 </tr>
