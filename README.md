@@ -29,7 +29,12 @@
 💼 **Focus:** Building beautiful web applications  
 ☕ **Powered by:** beer and curiosity  
 🎯 **Goal:** Creating amazing user experiences
-😁 **Quote** Don't be clever. Don't try to write complicated code on purpose to show how smnart you are. Write simple, clear. rusable code. Think Simplicaity, Clarity, Generarlity. -By Brian Kernighan
+😁 **Quote**  
+Don't be clever. Don't try to write complicated code on purpose to show how smart you are.  
+Write simple, clear, reusable code.  
+Think Simplicity, Clarity, Generality.  
+– By Brian Kernighan
+
 
 </td>
 </tr>
