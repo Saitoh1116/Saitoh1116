@@ -17,13 +17,13 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=Java" width="100" height="100" alt="Java" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=java" width="100" height="100" alt="Java" />
+<br><strong>Java</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm MokichiSaitoh!**
-🚀 **Java Developer** passionate about mobile development  
+🚀 **Java Developer** passionate about Web development  
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful web applications  
