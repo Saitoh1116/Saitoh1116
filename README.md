@@ -47,6 +47,11 @@ Think Simplicity, Clarity, Generality.
 ## 📊 **GitHub Analytics**
 
 <div align="center">
+
+    ### 🚀 **Portfolio Project**
+  🔗 **Flashcard Learning App**  
+  👉 https://app.mokichi-flashcard.com
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
