@@ -29,6 +29,12 @@
 💼 **Focus:** Building beautiful web applications  
 ☕ **Powered by:** beer and curiosity  
 🎯 **Goal:** Creating amazing user experiences
+　　**Qualification:** AWS CLF-C02 AWS SAA-C03
+
+  🔗 **Flashcard Learning App**  
+  👉 ~~https://app.mokichi-flashcard.com~~
+
+  
 
 
 😁 **Quote**  
@@ -49,8 +55,7 @@ Think Simplicity, Clarity, Generality.
 <div align="center">
 
     ### 🚀 **Portfolio Project**
-  🔗 **Flashcard Learning App**  
-  👉 ~~https://app.mokichi-flashcard.com~~
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
