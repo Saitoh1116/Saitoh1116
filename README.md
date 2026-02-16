@@ -29,7 +29,7 @@
 💼 **Focus:** Building beautiful web applications  
 ☕ **Powered by:** beer and curiosity  
 🎯 **Goal:** Creating amazing user experiences
-💾　　**Qualification:** AWS CLF-C02 AWS SAA-C03
+💾 **Qualification:** AWS CLF-C02 AWS SAA-C03
 
   🔗 **Flashcard Learning App**  
   👉 ~~https://app.mokichi-flashcard.com~~
