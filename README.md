@@ -32,7 +32,7 @@
 💾 **Qualification:** AWS CLF-C02 AWS SAA-C03
 
   🔗 **Flashcard Learning App**  
-  👉 ~~https://app.mokichi-flashcard.com~~
+  👉 https://app.mokichi-flashcard.com
 
   
 
