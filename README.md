@@ -37,7 +37,7 @@
   🔗 **Flashcard Learning App**  
   👉 https://app.mokichi-flashcard.com
   🔗 **Beer Diary App**
-  👉 https://alesribe.com
+  👉 https://alescribe.com/
 
   
 
