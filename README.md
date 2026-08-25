@@ -35,7 +35,8 @@
 ・GCP GAIL</br>
 
   🔗 **Flashcard Learning App**  
-  👉 https://app.mokichi-flashcard.com
+  👉 https://app.mokichi-flashcard.com</br>
+  
   🔗 **Beer Diary App**
   👉 https://alescribe.com/
 
